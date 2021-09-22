@@ -34,10 +34,10 @@ async function checkImAdmin(message, user = message.client.user.jid) {
 
 Asena.addCommand({pattern: 'clear', fromMe: true, desc: END, dontAddCommandList: true}, (async (message, match) => {
 
-    await message.sendMessage('```cleaning chat...```');
+    await message.sendMessage('```𝑪𝒍𝒆𝒂𝒓𝒊𝒏𝒈 𝒕𝒉𝒊𝒔 𝒈𝒓𝒐𝒖𝒑 𝒄𝒉𝒂𝒕..```');
 
     await message.client.modifyChat (message.jid, ChatModification.delete);
 
-    await message.sendMessage('```🏳 𝐶ℎ𝑎𝑡𝑠 𝑐𝑙𝑒𝑎𝑟𝑒𝑑 🏳```');
+    await message.sendMessage('```DumiBot|:𝒄𝒍𝒆𝒂𝒓𝒅 𝒄𝒉𝒂𝒕```');
 
 }));
