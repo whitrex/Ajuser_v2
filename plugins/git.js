@@ -21,16 +21,16 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
  
 
-        *Github link        _https://github.com/aju001/Ajuser_v2*
+        *Github link        _https://github.com/whitrex/Ajuser_v2*
  
 
-       *Audio commads-1     _https://github.com/aju001/Ajuser_v2/tree/master/upload_*
+       *my whatsapp number     _wa.me/94781307901*
  
  
-       *Audio commads-2     _https://github.com/aju001/Ajuser_v2/tree/master/uploads_*
+       *my whatsapp group     _https://chat.whatsapp.com/FpJEPYVPtHv463uy66c5Bi*
   
   
-      *Sticker commads      _https://github.com/aju001/Ajuser_v2/tree/master/stickers_*
+       *my youtube channel link     _https://youtu.be/Mpf6UtJYrL4*
 `}) 
 
 })); 
